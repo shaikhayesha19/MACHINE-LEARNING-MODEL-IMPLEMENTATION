@@ -44,3 +44,7 @@ Performance evaluation and visualization
 This notebook serves as a complete demonstration of a machine learning workflow, highlighting both implementation and analytical understanding.
 
 OUTPUT:
+
+<img width="527" height="306" alt="Image" src="https://github.com/user-attachments/assets/3d13788b-78b2-48bd-9559-a5e8057a4771" />
+
+<img width="537" height="446" alt="Image" src="https://github.com/user-attachments/assets/c952cb29-b133-4ff5-8177-e6990fec835c" />
